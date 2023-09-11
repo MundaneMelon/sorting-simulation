@@ -1,0 +1,6 @@
+from 0 to -160
+16 10x10 squares worth
+
+
+create an array
+then remove all objects, and create new ones. find a way to return indexes of highlighted ones, for the loop to manage
